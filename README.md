@@ -1,6 +1,6 @@
 ## Definition and Introduction
 
-Santander is always looking for ways to help our customers understand their financial health and identify which products and services might help them achieve their monetary goals. 
+Santander is looking for ways to help our customers understand their financial health and identify which products and services might help them achieve their monetary goals. 
 
 We come in to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted.
 
